@@ -1,0 +1,15 @@
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\bin\Debug\net7.0\Example002.exe
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\bin\Debug\net7.0\Example002.deps.json
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\bin\Debug\net7.0\Example002.runtimeconfig.json
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\bin\Debug\net7.0\Example002.dll
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\bin\Debug\net7.0\Example002.pdb
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.csproj.AssemblyReference.cache
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.AssemblyInfoInputs.cache
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.AssemblyInfo.cs
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.csproj.CoreCompileInputs.cache
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.dll
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\refint\Example002.dll
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.pdb
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\Example002.genruntimeconfig.cache
+C:\Users\milge\Desktop\Projects\C#\1\Examples3007\Example002\obj\Debug\net7.0\ref\Example002.dll
