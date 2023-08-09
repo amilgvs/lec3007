@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\milge\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milge\\Desktop\\Projects\\C#\\1\\Examples3007\\Example001\\Example001.csproj",
-      "projectName": "Example001",
-      "projectPath": "C:\\Users\\milge\\Desktop\\Projects\\C#\\1\\Examples3007\\Example001\\Example001.csproj",
+      "projectUniqueName": "C:\\Users\\milge\\Desktop\\Projects\\C#\\1\\Examples3007\\Еxample003_Sum\\Еxample003_Sum.csproj",
+      "projectName": "Еxample003_Sum",
+      "projectPath": "C:\\Users\\milge\\Desktop\\Projects\\C#\\1\\Examples3007\\Еxample003_Sum\\Еxample003_Sum.csproj",
       "packagesPath": "C:\\Users\\milge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milge\\Desktop\\Projects\\C#\\1\\Examples3007\\Example001\\obj\\",
+      "outputPath": "C:\\Users\\milge\\Desktop\\Projects\\C#\\1\\Examples3007\\Еxample003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\milge\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
